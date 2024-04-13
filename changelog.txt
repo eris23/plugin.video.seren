@@ -1,3 +1,5 @@
+Changelog 3.0.1
+[BUG] Modified globals.py for Kodi Omega support
 Changelog 3.0.0
 [PERFORMANCE] Drop support for Python 2.x (Kodi Leia and below)
 [PERFORMANCE] Optimize codebase for Python 3.x (Kodi Matrix and above)
